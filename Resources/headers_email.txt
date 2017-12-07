@@ -1,0 +1,8 @@
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="------------limitA"
+
+This is a multi-part message in MIME format.
+--------------limitA
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
